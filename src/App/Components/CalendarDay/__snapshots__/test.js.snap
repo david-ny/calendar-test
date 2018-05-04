@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CalendarDay has a valid snapshot 1`] = `
+<button
+  className=""
+  style={
+    Object {
+      "color": "gray",
+      "flexBasis": "14.2857%",
+      "maxWidth": "14.2857%",
+      "overflow": "hidden",
+    }
+  }
+  type="button"
+>
+  <time
+    dateTime="2018-05-25 00:05"
+    style={
+      Object {
+        "opacity": 1,
+      }
+    }
+  >
+    25
+  </time>
+</button>
+`;

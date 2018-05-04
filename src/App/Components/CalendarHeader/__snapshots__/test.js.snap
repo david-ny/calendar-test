@@ -1,0 +1,90 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CalendarHeader has a valid snapshot 1`] = `
+<div
+  className="calendar-header"
+  style={
+    Object {
+      "display": "flex",
+    }
+  }
+>
+  <div
+    style={
+      Object {
+        "flexBasis": "14.2857%",
+        "maxWidth": "14.2857%",
+        "overflow": "hidden",
+      }
+    }
+  >
+    Su
+  </div>
+  <div
+    style={
+      Object {
+        "flexBasis": "14.2857%",
+        "maxWidth": "14.2857%",
+        "overflow": "hidden",
+      }
+    }
+  >
+    Mo
+  </div>
+  <div
+    style={
+      Object {
+        "flexBasis": "14.2857%",
+        "maxWidth": "14.2857%",
+        "overflow": "hidden",
+      }
+    }
+  >
+    Tu
+  </div>
+  <div
+    style={
+      Object {
+        "flexBasis": "14.2857%",
+        "maxWidth": "14.2857%",
+        "overflow": "hidden",
+      }
+    }
+  >
+    We
+  </div>
+  <div
+    style={
+      Object {
+        "flexBasis": "14.2857%",
+        "maxWidth": "14.2857%",
+        "overflow": "hidden",
+      }
+    }
+  >
+    Th
+  </div>
+  <div
+    style={
+      Object {
+        "flexBasis": "14.2857%",
+        "maxWidth": "14.2857%",
+        "overflow": "hidden",
+      }
+    }
+  >
+    Fr
+  </div>
+  <div
+    style={
+      Object {
+        "flexBasis": "14.2857%",
+        "maxWidth": "14.2857%",
+        "overflow": "hidden",
+      }
+    }
+  >
+    Sa
+  </div>
+</div>
+`;

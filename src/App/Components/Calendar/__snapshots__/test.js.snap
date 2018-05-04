@@ -1,0 +1,1087 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Calendar has a valid snapshot 1`] = `
+<div
+  className="calendar"
+>
+  <div
+    style={
+      Object {
+        "alignItems": "flex-end",
+        "display": "flex",
+      }
+    }
+  >
+    <div
+      style={
+        Object {
+          "flexGgrow": "1",
+          "width": "100%",
+        }
+      }
+    >
+      <div
+        className="calendar-header"
+        style={
+          Object {
+            "display": "flex",
+          }
+        }
+      >
+        <div
+          style={
+            Object {
+              "flexBasis": "14.2857%",
+              "maxWidth": "14.2857%",
+              "overflow": "hidden",
+            }
+          }
+        >
+          Su
+        </div>
+        <div
+          style={
+            Object {
+              "flexBasis": "14.2857%",
+              "maxWidth": "14.2857%",
+              "overflow": "hidden",
+            }
+          }
+        >
+          Mo
+        </div>
+        <div
+          style={
+            Object {
+              "flexBasis": "14.2857%",
+              "maxWidth": "14.2857%",
+              "overflow": "hidden",
+            }
+          }
+        >
+          Tu
+        </div>
+        <div
+          style={
+            Object {
+              "flexBasis": "14.2857%",
+              "maxWidth": "14.2857%",
+              "overflow": "hidden",
+            }
+          }
+        >
+          We
+        </div>
+        <div
+          style={
+            Object {
+              "flexBasis": "14.2857%",
+              "maxWidth": "14.2857%",
+              "overflow": "hidden",
+            }
+          }
+        >
+          Th
+        </div>
+        <div
+          style={
+            Object {
+              "flexBasis": "14.2857%",
+              "maxWidth": "14.2857%",
+              "overflow": "hidden",
+            }
+          }
+        >
+          Fr
+        </div>
+        <div
+          style={
+            Object {
+              "flexBasis": "14.2857%",
+              "maxWidth": "14.2857%",
+              "overflow": "hidden",
+            }
+          }
+        >
+          Sa
+        </div>
+      </div>
+      <div
+        style={
+          Object {
+            "display": "flex",
+            "flexWrap": "wrap",
+          }
+        }
+      >
+        <button
+          className=""
+          style={
+            Object {
+              "color": "red",
+              "flexBasis": "14.2857%",
+              "maxWidth": "14.2857%",
+              "overflow": "hidden",
+            }
+          }
+          type="button"
+        >
+          <time
+            dateTime="2018-04-29 00:04"
+            style={
+              Object {
+                "opacity": 0.3,
+              }
+            }
+          >
+            29
+          </time>
+        </button>
+        <button
+          className=""
+          style={
+            Object {
+              "color": "gray",
+              "flexBasis": "14.2857%",
+              "maxWidth": "14.2857%",
+              "overflow": "hidden",
+            }
+          }
+          type="button"
+        >
+          <time
+            dateTime="2018-04-30 00:04"
+            style={
+              Object {
+                "opacity": 0.3,
+              }
+            }
+          >
+            30
+          </time>
+        </button>
+        <button
+          className=""
+          style={
+            Object {
+              "color": "gray",
+              "flexBasis": "14.2857%",
+              "maxWidth": "14.2857%",
+              "overflow": "hidden",
+            }
+          }
+          type="button"
+        >
+          <time
+            dateTime="2018-05-01 00:05"
+            style={
+              Object {
+                "opacity": 1,
+              }
+            }
+          >
+            1
+          </time>
+        </button>
+        <button
+          className=""
+          style={
+            Object {
+              "color": "gray",
+              "flexBasis": "14.2857%",
+              "maxWidth": "14.2857%",
+              "overflow": "hidden",
+            }
+          }
+          type="button"
+        >
+          <time
+            dateTime="2018-05-02 00:05"
+            style={
+              Object {
+                "opacity": 1,
+              }
+            }
+          >
+            2
+          </time>
+        </button>
+        <button
+          className=""
+          style={
+            Object {
+              "color": "gray",
+              "flexBasis": "14.2857%",
+              "maxWidth": "14.2857%",
+              "overflow": "hidden",
+            }
+          }
+          type="button"
+        >
+          <time
+            dateTime="2018-05-03 00:05"
+            style={
+              Object {
+                "opacity": 1,
+              }
+            }
+          >
+            3
+          </time>
+        </button>
+        <button
+          className="today"
+          style={
+            Object {
+              "color": "gray",
+              "flexBasis": "14.2857%",
+              "maxWidth": "14.2857%",
+              "overflow": "hidden",
+            }
+          }
+          type="button"
+        >
+          <time
+            dateTime="2018-05-04 00:05"
+            style={
+              Object {
+                "opacity": 1,
+              }
+            }
+          >
+            4
+          </time>
+        </button>
+        <button
+          className=""
+          style={
+            Object {
+              "color": "red",
+              "flexBasis": "14.2857%",
+              "maxWidth": "14.2857%",
+              "overflow": "hidden",
+            }
+          }
+          type="button"
+        >
+          <time
+            dateTime="2018-05-05 00:05"
+            style={
+              Object {
+                "opacity": 1,
+              }
+            }
+          >
+            5
+          </time>
+        </button>
+        <button
+          className=""
+          style={
+            Object {
+              "color": "red",
+              "flexBasis": "14.2857%",
+              "maxWidth": "14.2857%",
+              "overflow": "hidden",
+            }
+          }
+          type="button"
+        >
+          <time
+            dateTime="2018-05-06 00:05"
+            style={
+              Object {
+                "opacity": 1,
+              }
+            }
+          >
+            6
+          </time>
+        </button>
+        <button
+          className=""
+          style={
+            Object {
+              "color": "gray",
+              "flexBasis": "14.2857%",
+              "maxWidth": "14.2857%",
+              "overflow": "hidden",
+            }
+          }
+          type="button"
+        >
+          <time
+            dateTime="2018-05-07 00:05"
+            style={
+              Object {
+                "opacity": 1,
+              }
+            }
+          >
+            7
+          </time>
+        </button>
+        <button
+          className=""
+          style={
+            Object {
+              "color": "gray",
+              "flexBasis": "14.2857%",
+              "maxWidth": "14.2857%",
+              "overflow": "hidden",
+            }
+          }
+          type="button"
+        >
+          <time
+            dateTime="2018-05-08 00:05"
+            style={
+              Object {
+                "opacity": 1,
+              }
+            }
+          >
+            8
+          </time>
+        </button>
+        <button
+          className=""
+          style={
+            Object {
+              "color": "gray",
+              "flexBasis": "14.2857%",
+              "maxWidth": "14.2857%",
+              "overflow": "hidden",
+            }
+          }
+          type="button"
+        >
+          <time
+            dateTime="2018-05-09 00:05"
+            style={
+              Object {
+                "opacity": 1,
+              }
+            }
+          >
+            9
+          </time>
+        </button>
+        <button
+          className=""
+          style={
+            Object {
+              "color": "gray",
+              "flexBasis": "14.2857%",
+              "maxWidth": "14.2857%",
+              "overflow": "hidden",
+            }
+          }
+          type="button"
+        >
+          <time
+            dateTime="2018-05-10 00:05"
+            style={
+              Object {
+                "opacity": 1,
+              }
+            }
+          >
+            10
+          </time>
+        </button>
+        <button
+          className=""
+          style={
+            Object {
+              "color": "gray",
+              "flexBasis": "14.2857%",
+              "maxWidth": "14.2857%",
+              "overflow": "hidden",
+            }
+          }
+          type="button"
+        >
+          <time
+            dateTime="2018-05-11 00:05"
+            style={
+              Object {
+                "opacity": 1,
+              }
+            }
+          >
+            11
+          </time>
+        </button>
+        <button
+          className=""
+          style={
+            Object {
+              "color": "red",
+              "flexBasis": "14.2857%",
+              "maxWidth": "14.2857%",
+              "overflow": "hidden",
+            }
+          }
+          type="button"
+        >
+          <time
+            dateTime="2018-05-12 00:05"
+            style={
+              Object {
+                "opacity": 1,
+              }
+            }
+          >
+            12
+          </time>
+        </button>
+        <button
+          className=""
+          style={
+            Object {
+              "color": "red",
+              "flexBasis": "14.2857%",
+              "maxWidth": "14.2857%",
+              "overflow": "hidden",
+            }
+          }
+          type="button"
+        >
+          <time
+            dateTime="2018-05-13 00:05"
+            style={
+              Object {
+                "opacity": 1,
+              }
+            }
+          >
+            13
+          </time>
+        </button>
+        <button
+          className=""
+          style={
+            Object {
+              "color": "gray",
+              "flexBasis": "14.2857%",
+              "maxWidth": "14.2857%",
+              "overflow": "hidden",
+            }
+          }
+          type="button"
+        >
+          <time
+            dateTime="2018-05-14 00:05"
+            style={
+              Object {
+                "opacity": 1,
+              }
+            }
+          >
+            14
+          </time>
+        </button>
+        <button
+          className=""
+          style={
+            Object {
+              "color": "gray",
+              "flexBasis": "14.2857%",
+              "maxWidth": "14.2857%",
+              "overflow": "hidden",
+            }
+          }
+          type="button"
+        >
+          <time
+            dateTime="2018-05-15 00:05"
+            style={
+              Object {
+                "opacity": 1,
+              }
+            }
+          >
+            15
+          </time>
+        </button>
+        <button
+          className=""
+          style={
+            Object {
+              "color": "gray",
+              "flexBasis": "14.2857%",
+              "maxWidth": "14.2857%",
+              "overflow": "hidden",
+            }
+          }
+          type="button"
+        >
+          <time
+            dateTime="2018-05-16 00:05"
+            style={
+              Object {
+                "opacity": 1,
+              }
+            }
+          >
+            16
+          </time>
+        </button>
+        <button
+          className=""
+          style={
+            Object {
+              "color": "gray",
+              "flexBasis": "14.2857%",
+              "maxWidth": "14.2857%",
+              "overflow": "hidden",
+            }
+          }
+          type="button"
+        >
+          <time
+            dateTime="2018-05-17 00:05"
+            style={
+              Object {
+                "opacity": 1,
+              }
+            }
+          >
+            17
+          </time>
+        </button>
+        <button
+          className=""
+          style={
+            Object {
+              "color": "gray",
+              "flexBasis": "14.2857%",
+              "maxWidth": "14.2857%",
+              "overflow": "hidden",
+            }
+          }
+          type="button"
+        >
+          <time
+            dateTime="2018-05-18 00:05"
+            style={
+              Object {
+                "opacity": 1,
+              }
+            }
+          >
+            18
+          </time>
+        </button>
+        <button
+          className=""
+          style={
+            Object {
+              "color": "red",
+              "flexBasis": "14.2857%",
+              "maxWidth": "14.2857%",
+              "overflow": "hidden",
+            }
+          }
+          type="button"
+        >
+          <time
+            dateTime="2018-05-19 00:05"
+            style={
+              Object {
+                "opacity": 1,
+              }
+            }
+          >
+            19
+          </time>
+        </button>
+        <button
+          className=""
+          style={
+            Object {
+              "color": "red",
+              "flexBasis": "14.2857%",
+              "maxWidth": "14.2857%",
+              "overflow": "hidden",
+            }
+          }
+          type="button"
+        >
+          <time
+            dateTime="2018-05-20 00:05"
+            style={
+              Object {
+                "opacity": 1,
+              }
+            }
+          >
+            20
+          </time>
+        </button>
+        <button
+          className=""
+          style={
+            Object {
+              "color": "gray",
+              "flexBasis": "14.2857%",
+              "maxWidth": "14.2857%",
+              "overflow": "hidden",
+            }
+          }
+          type="button"
+        >
+          <time
+            dateTime="2018-05-21 00:05"
+            style={
+              Object {
+                "opacity": 1,
+              }
+            }
+          >
+            21
+          </time>
+        </button>
+        <button
+          className=""
+          style={
+            Object {
+              "color": "gray",
+              "flexBasis": "14.2857%",
+              "maxWidth": "14.2857%",
+              "overflow": "hidden",
+            }
+          }
+          type="button"
+        >
+          <time
+            dateTime="2018-05-22 00:05"
+            style={
+              Object {
+                "opacity": 1,
+              }
+            }
+          >
+            22
+          </time>
+        </button>
+        <button
+          className=""
+          style={
+            Object {
+              "color": "gray",
+              "flexBasis": "14.2857%",
+              "maxWidth": "14.2857%",
+              "overflow": "hidden",
+            }
+          }
+          type="button"
+        >
+          <time
+            dateTime="2018-05-23 00:05"
+            style={
+              Object {
+                "opacity": 1,
+              }
+            }
+          >
+            23
+          </time>
+        </button>
+        <button
+          className=""
+          style={
+            Object {
+              "color": "gray",
+              "flexBasis": "14.2857%",
+              "maxWidth": "14.2857%",
+              "overflow": "hidden",
+            }
+          }
+          type="button"
+        >
+          <time
+            dateTime="2018-05-24 00:05"
+            style={
+              Object {
+                "opacity": 1,
+              }
+            }
+          >
+            24
+          </time>
+        </button>
+        <button
+          className=""
+          style={
+            Object {
+              "color": "gray",
+              "flexBasis": "14.2857%",
+              "maxWidth": "14.2857%",
+              "overflow": "hidden",
+            }
+          }
+          type="button"
+        >
+          <time
+            dateTime="2018-05-25 00:05"
+            style={
+              Object {
+                "opacity": 1,
+              }
+            }
+          >
+            25
+          </time>
+        </button>
+        <button
+          className=""
+          style={
+            Object {
+              "color": "red",
+              "flexBasis": "14.2857%",
+              "maxWidth": "14.2857%",
+              "overflow": "hidden",
+            }
+          }
+          type="button"
+        >
+          <time
+            dateTime="2018-05-26 00:05"
+            style={
+              Object {
+                "opacity": 1,
+              }
+            }
+          >
+            26
+          </time>
+        </button>
+        <button
+          className=""
+          style={
+            Object {
+              "color": "red",
+              "flexBasis": "14.2857%",
+              "maxWidth": "14.2857%",
+              "overflow": "hidden",
+            }
+          }
+          type="button"
+        >
+          <time
+            dateTime="2018-05-27 00:05"
+            style={
+              Object {
+                "opacity": 1,
+              }
+            }
+          >
+            27
+          </time>
+        </button>
+        <button
+          className=""
+          style={
+            Object {
+              "color": "gray",
+              "flexBasis": "14.2857%",
+              "maxWidth": "14.2857%",
+              "overflow": "hidden",
+            }
+          }
+          type="button"
+        >
+          <time
+            dateTime="2018-05-28 00:05"
+            style={
+              Object {
+                "opacity": 1,
+              }
+            }
+          >
+            28
+          </time>
+        </button>
+        <button
+          className=""
+          style={
+            Object {
+              "color": "gray",
+              "flexBasis": "14.2857%",
+              "maxWidth": "14.2857%",
+              "overflow": "hidden",
+            }
+          }
+          type="button"
+        >
+          <time
+            dateTime="2018-05-29 00:05"
+            style={
+              Object {
+                "opacity": 1,
+              }
+            }
+          >
+            29
+          </time>
+        </button>
+        <button
+          className=""
+          style={
+            Object {
+              "color": "gray",
+              "flexBasis": "14.2857%",
+              "maxWidth": "14.2857%",
+              "overflow": "hidden",
+            }
+          }
+          type="button"
+        >
+          <time
+            dateTime="2018-05-30 00:05"
+            style={
+              Object {
+                "opacity": 1,
+              }
+            }
+          >
+            30
+          </time>
+        </button>
+        <button
+          className=""
+          style={
+            Object {
+              "color": "gray",
+              "flexBasis": "14.2857%",
+              "maxWidth": "14.2857%",
+              "overflow": "hidden",
+            }
+          }
+          type="button"
+        >
+          <time
+            dateTime="2018-05-31 00:05"
+            style={
+              Object {
+                "opacity": 1,
+              }
+            }
+          >
+            31
+          </time>
+        </button>
+        <button
+          className=""
+          style={
+            Object {
+              "color": "gray",
+              "flexBasis": "14.2857%",
+              "maxWidth": "14.2857%",
+              "overflow": "hidden",
+            }
+          }
+          type="button"
+        >
+          <time
+            dateTime="2018-06-01 00:06"
+            style={
+              Object {
+                "opacity": 0.3,
+              }
+            }
+          >
+            1
+          </time>
+        </button>
+        <button
+          className=""
+          style={
+            Object {
+              "color": "red",
+              "flexBasis": "14.2857%",
+              "maxWidth": "14.2857%",
+              "overflow": "hidden",
+            }
+          }
+          type="button"
+        >
+          <time
+            dateTime="2018-06-02 00:06"
+            style={
+              Object {
+                "opacity": 0.3,
+              }
+            }
+          >
+            2
+          </time>
+        </button>
+        <button
+          className=""
+          style={
+            Object {
+              "color": "red",
+              "flexBasis": "14.2857%",
+              "maxWidth": "14.2857%",
+              "overflow": "hidden",
+            }
+          }
+          type="button"
+        >
+          <time
+            dateTime="2018-06-03 00:06"
+            style={
+              Object {
+                "opacity": 0.3,
+              }
+            }
+          >
+            3
+          </time>
+        </button>
+        <button
+          className=""
+          style={
+            Object {
+              "color": "gray",
+              "flexBasis": "14.2857%",
+              "maxWidth": "14.2857%",
+              "overflow": "hidden",
+            }
+          }
+          type="button"
+        >
+          <time
+            dateTime="2018-06-04 00:06"
+            style={
+              Object {
+                "opacity": 0.3,
+              }
+            }
+          >
+            4
+          </time>
+        </button>
+        <button
+          className=""
+          style={
+            Object {
+              "color": "gray",
+              "flexBasis": "14.2857%",
+              "maxWidth": "14.2857%",
+              "overflow": "hidden",
+            }
+          }
+          type="button"
+        >
+          <time
+            dateTime="2018-06-05 00:06"
+            style={
+              Object {
+                "opacity": 0.3,
+              }
+            }
+          >
+            5
+          </time>
+        </button>
+        <button
+          className=""
+          style={
+            Object {
+              "color": "gray",
+              "flexBasis": "14.2857%",
+              "maxWidth": "14.2857%",
+              "overflow": "hidden",
+            }
+          }
+          type="button"
+        >
+          <time
+            dateTime="2018-06-06 00:06"
+            style={
+              Object {
+                "opacity": 0.3,
+              }
+            }
+          >
+            6
+          </time>
+        </button>
+        <button
+          className=""
+          style={
+            Object {
+              "color": "gray",
+              "flexBasis": "14.2857%",
+              "maxWidth": "14.2857%",
+              "overflow": "hidden",
+            }
+          }
+          type="button"
+        >
+          <time
+            dateTime="2018-06-07 00:06"
+            style={
+              Object {
+                "opacity": 0.3,
+              }
+            }
+          >
+            7
+          </time>
+        </button>
+        <button
+          className=""
+          style={
+            Object {
+              "color": "gray",
+              "flexBasis": "14.2857%",
+              "maxWidth": "14.2857%",
+              "overflow": "hidden",
+            }
+          }
+          type="button"
+        >
+          <time
+            dateTime="2018-06-08 00:06"
+            style={
+              Object {
+                "opacity": 0.3,
+              }
+            }
+          >
+            8
+          </time>
+        </button>
+        <button
+          className=""
+          style={
+            Object {
+              "color": "red",
+              "flexBasis": "14.2857%",
+              "maxWidth": "14.2857%",
+              "overflow": "hidden",
+            }
+          }
+          type="button"
+        >
+          <time
+            dateTime="2018-06-09 00:06"
+            style={
+              Object {
+                "opacity": 0.3,
+              }
+            }
+          >
+            9
+          </time>
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;

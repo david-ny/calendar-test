@@ -1,0 +1,83 @@
+$font-sizes: (
+    xs: .8rem,// Extra small screen / phone
+    sm: .9rem, // Small screen /m screen / tablet phone
+    md: .9rem, // Medium screen / tablet
+    lg: 1rem, // Large screen / desktop
+    xl: 1.1rem // Extra large screen / wide desktop
+) !default;
+
+html,
+body,
+#app {
+  height: 100%;
+}
+
+body {
+    font-family: $font_family_Verdana_Geneva;
+    font-family: $main_font_family;
+    color: $color_main_text;
+    @include relative-to(font-size, 1, $font-sizes);
+    background:
+    linear-gradient(to bottom, rgba(0,0,0,0) 0%,
+      rgba(0,0,0,0) 50%, $color_page-background 50%, $color_page-background 100%),
+    linear-gradient(130deg, $color_yellow_light 0, $color_pink 100%);
+}
+button {
+  font-family: $main_font_family;
+}
+
+// .app {
+//   width: 100%;
+// }
+
+.calendar {
+  box-shadow: 0 30px 40px 0 rgba(16, 36, 94, 0.2);
+  max-width: 25rem;
+  width: 90%;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+
+  .calendar-header {
+      // background: $color_page-background;
+      background: #fffbf7;
+      padding: .7em .3em;
+      font-weight: bold;
+      text-transform: uppercase;
+      text-align: center;
+  }
+
+  button {
+    border: 0;
+    padding: .3em;
+    background-color: $color_page-background;
+
+    &:hover {
+      background-color: $color_yellow;
+    }
+
+    &.today {
+      background-color: $color_pink_light;
+      color: $color_page-background!important;
+      font-weight: bold;
+    }
+  }
+}
+
+.controls {
+  position: absolute;
+  max-width: 25rem;
+  width: 90%;
+  left: 50%;
+  top: 23%;
+  transform: translate(-50%, -50%);
+
+  #dateString {
+    width: 100%;
+  }
+
+  #locale {
+    width: 100%;
+  }
+}
