@@ -24,6 +24,6 @@ You should submit the solution even if it is not fully finished.
 
 
 
-#### Screenshot of this solution
+## Screenshot of this solution
 <!-- <img src="docs/01_login.png"  style="max-width:100%;"> -->
 ![Screenshot](docs/screenshot.png)
