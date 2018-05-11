@@ -230,7 +230,7 @@ exports[`Calendar has a valid snapshot 1`] = `
           </time>
         </button>
         <button
-          className="today"
+          className=""
           style={
             Object {
               "color": "gray",
@@ -391,7 +391,7 @@ exports[`Calendar has a valid snapshot 1`] = `
           </time>
         </button>
         <button
-          className=""
+          className="today"
           style={
             Object {
               "color": "gray",
